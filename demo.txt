@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hellwendwnaksdaklsdoasnfleanf
+=======
+hello
+Lê đình 
+dak
+>>>>>>> feature
